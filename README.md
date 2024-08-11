@@ -1,7 +1,7 @@
 # Hospital-DBMS
 A simple hospital database management system. 
 
-Programming Languages: Java, SQL
+Programming Languages: Java, SQL 
 
 The Hospital Database Management System (DBMS) is a comprehensive software solution that simplifies the management of hospital databases while also meeting many administrative activities and data organization requirements. This project is designed with efficiency and usability in mind, and it provides a user-friendly interface that authorized workers may utilize to efficiently handle critical areas of hospital operations.
 
