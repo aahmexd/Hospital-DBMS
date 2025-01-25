@@ -1,5 +1,4 @@
 # Hospital-DBMS
-A simple hospital database management system. 
 
 Programming Languages: Java, SQL 
 
