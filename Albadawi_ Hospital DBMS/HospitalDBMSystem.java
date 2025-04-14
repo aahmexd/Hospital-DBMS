@@ -96,9 +96,9 @@ public class HospitalDBMSystem{
 
     private static void establishConnection() {
         try {
-            String url = "jdbc:mysql://cs.neiu.edu:3306/SP24CS3151_aalbadawi?serverTimezone=UTC";
-            String username = "SP24CS3151_aalbadawi";
-            String password = "aalbadawi693182";
+            String url = "jdbc:mysql://cs.neiu.edu:3306/usernameChange?serverTimezone=UTC";
+            String username = "usernameChange";
+            String password = "passwordChange";
             conn = DriverManager.getConnection(url, username, password);
         } 
         catch (SQLException sqle) {
